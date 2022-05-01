@@ -1,4 +1,4 @@
-Esta es una página de tributo a Jimi Hendrix.
+Esta es una página es de Freecodecamp.
 
 Constituye la primera parte de mi cartera de codificación.
 
